@@ -21,6 +21,10 @@ Android ✔️
 Ios ✔️
 
 
+## Preview
+![weather](https://s4.uupload.ir/files/whatsapp_video_2022-01-02_at_14.13.10_9p6.gif)
+
+
 ## Development Setup
 Clone the repository and run the following commands:
 ```
