@@ -22,7 +22,7 @@ Ios ✔️
 
 
 ## Preview
-![weather](https://s4.uupload.ir/files/whatsapp_video_2022-01-02_at_14.13.10_9p6.gif)
+![Wallet](https://s4.uupload.ir/files/whatsapp_video_2022-01-02_at_14.13.10_9p6.gif)
 
 
 ## Development Setup
