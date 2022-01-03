@@ -1,3 +1,9 @@
+![Swiper](https://wp-endpoint.azureedge.net/wp-content/uploads/2019/09/wallet-logo-dark-bg@2x.png)
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
+[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
+
+
+
 # wallet
 
 A new Flutter project.
