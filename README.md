@@ -6,7 +6,27 @@
 
 # wallet
 
-A new Flutter project.
+A new Flutter project Wallt [UI](https://dribbble.com/shots/6600859-Explore-Universe-App-UI)
+
+Use this source code in your project with animation 
+
+ Rate me ⭐
+
+Thank you ☺
+
+## Platform
+
+Android ✔️
+
+Ios ✔️
+
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
 ## Getting Started
 
